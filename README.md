@@ -1,0 +1,4 @@
+mySpringTest
+============
+
+Spring web app 
